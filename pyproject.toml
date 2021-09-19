@@ -11,7 +11,7 @@ ipdb = "0.13.9"
 ipython = "7.27.0"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "3.9.7"
 Flask = "2.0.1"
 Flask-SQLAlchemy = "2.5.1"
 gunicorn = "20.1.0"
